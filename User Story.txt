@@ -1,0 +1,6 @@
+Register and Login
+
+Add to fvourite
+Remove from favourite
+
+Recommend a movie to friends and Share movies with friends on social accounts
